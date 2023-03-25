@@ -47,7 +47,7 @@ Apart from these individual tasks, every team member was involved in designing, 
 
 ## Architecture
 
-![Application Architecture](./extras/images/application_arch.jpg "Complete application architecture")
+![Application Architecture](./extras/images/application_arch.svg "Complete application architecture")
 
 ## AWS Credentials
 
